@@ -5,10 +5,13 @@ Welcome to Tree-Visualizer, an interactive web application designed to aid in le
 ## Live Demo - currently hosted at:
 
 Private URL: [https://tree-visualizer-tvhn.onrender.com](https://tree-visualizer-tvhn.onrender.com).
+University URL: [https://dbis-btree.uibk.ac.at]https://dbis-btree.uibk.ac.at
 
 ## Repository
 
-The source code is available and publicly visible on GitHub: [https://github.com/mattik01/Tree-Visualizer](https://github.com/mattik01/Tree-Visualizer)
+The source code is available and publicly visible on GitHub: 
+[https://github.com/mattik01/Tree-Visualizer](https://github.com/mattik01/Tree-Visualizer)
+[https://github.com/dbis-uibk/b-tree-visualizer](https://github.com/dbis-uibk/b-tree-visualizer)
 
 
 ## Getting Started
