@@ -1,0 +1,24 @@
+/* This is css for drawing a gradient line border*/
+
+body {
+	margin: 60px;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+	grid-gap: 60px;
+}
+
+.border {
+	font-size: 1.6rem;
+	display: grid;
+	place-items: center;
+	min-height: 200px;
+	border: 8px solid;
+	padding: 1rem;
+}
+
+.sides {
+	border-image: linear-gradient(to right, #1d4874,lightgrey,#f49404) 1 0;
+	border-width: 6px;
+	padding: 0px;
+	margin: 0px;
+}

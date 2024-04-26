@@ -1,0 +1,10 @@
+.btree-properties-segment {
+    border-top: 1px solid grey;
+    padding-top: 5px; 
+  }
+
+.btree-balancing-segment {
+    margin-top: 5px;
+    border-top: 1px solid grey; 
+    padding-top: 5px;
+  }
